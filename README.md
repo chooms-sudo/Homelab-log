@@ -13,3 +13,4 @@ Posting it like 5 days late so yea.
 ![h](https://github.com/user-attachments/assets/43d27bc8-2b57-432c-951d-369532e4f647)
 Same setup as before but my mom made me take down the routers (too many problems w/ it making the wifi go out and stuff and yea)
 Added a ps4 pro via ethernet for PS Vita remote play.
+Added a 5tb WD easystore HDD for NAS (gonna be making a guide soon)
