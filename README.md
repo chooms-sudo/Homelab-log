@@ -7,3 +7,9 @@ Ik it's october but I hadn't created the repo until now soo yeah.
 Home server(Lenovo ThinkCentre m920q sff)
 Network switch(Netgear PROSAFE GS108 8-port Gigabit Desktop switch) 
 Two unused routers being reutilized as access points to effectively create a wifi hotspot.(Make sure to check out my guide on how to do that!)
+
+# October 3
+Posting it like 5 days late so yea.
+![h](https://github.com/user-attachments/assets/43d27bc8-2b57-432c-951d-369532e4f647)
+Same setup as before but my mom made me take down the routers (too many problems w/ it making the wifi go out and stuff and yea)
+Added a ps4 pro via ethernet for PS Vita remote play.
