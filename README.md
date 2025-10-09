@@ -14,3 +14,9 @@ Posting it like 5 days late so yea.
 Same setup as before but my mom made me take down the routers (too many problems w/ it making the wifi go out and stuff and yea)
 Added a ps4 pro via ethernet for PS Vita remote play.
 Added a 5tb WD easystore HDD for NAS (gonna be making a guide soon)
+
+# October 8
+pretty small but significant update.
+![h1](https://github.com/user-attachments/assets/7338ca97-ebd2-4eb1-ace4-7c6fb28c839f)
+Only update ts time is I added a CD/DVD drive with a 700mb Verbatim CD popped inside to store IRC chat logs.
+(ts is gonna be relevant later i swear)
